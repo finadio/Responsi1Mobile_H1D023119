@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Player Position Colors -->
+    <color name="goalkeeper">#FFF9C4</color> <!-- Kuning -->
+    <color name="defender">#BBDEFB</color> <!-- Biru -->
+    <color name="midfielder">#C8E6C9</color> <!-- Hijau -->
+    <color name="forward">#FFCDD2</color> <!-- Merah (light red) -->
+</resources>

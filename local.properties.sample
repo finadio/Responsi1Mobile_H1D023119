@@ -1,0 +1,8 @@
+# local.properties.sample
+# Create a file named `local.properties` in the project root (same folder as settings.gradle.kts)
+# and add your football-data.org API token like this:
+#
+# footballApiToken=YOUR_REAL_TOKEN_HERE
+#
+# DO NOT commit your local.properties file to your repository.
+# This sample file can be committed as a template for others.
